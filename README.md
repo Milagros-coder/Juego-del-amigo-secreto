@@ -12,4 +12,4 @@ Podes clonar el archivo desde Git Clone y abrirlo desde tu navegador o en VSCODE
 Hice el código de JavaScript de 0 y cambie algunos detalles del HTML y el CSS con ayuda del chatGPT para algunos puntos como por ejemplo, las alertas distintas a las del navegador.
 
 ## Capturas del proyecto🖥
-![alt text](fotoAmigoSecreto.png)
+![alt text](fotoAmigoSecreto.png) 
